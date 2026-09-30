@@ -1,17 +1,23 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** [Write your full name]  
-> **Section:** [Write your section]  
-> **Date submitted:** [YYYY-MM-DD]
+> **Name:** Juniezsa Cassandra C. Bacus  
+> **Section:** CS3A 
+> **Date submitted:** 2026-09-30
 
 ---
 
 ## 1. User group
 
 **Who are you designing for?**  
+This is designed for everyone who wanted to join and experience the atmosphere of Diyandi Festival. But it is mostly important and designed for visitors, tourist, event attendees who  is not yet familiar to the layout or map of Iligan City.
+
 [Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
 
 **Why might this group need support during Diyandi?**  
+The Festival atmosphere of Iligan starts at the first day of September (September 1st) till the end of September (September 30). The Calendar of Activities is hard to track especially with where the event is being held. The goal is to know where, when, and if a certain event is starting, happening, and ending just by looking at a Map or directory. 
+
+But this can also be used by Iliganons to avoid traffic at certain parts of Iligan to avoid traffic and not be late at their destination. 
+
 [Briefly explain the group’s situation, goals, or needs.]
 
 ---
