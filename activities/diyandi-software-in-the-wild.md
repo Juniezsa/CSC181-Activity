@@ -11,27 +11,26 @@
 **Who are you designing for?**  
 This is designed for everyone who wanted to join and experience the atmosphere of Diyandi Festival. But it is mostly important and designed for visitors, tourist, event attendees who  is not yet familiar to the layout or map of Iligan City.
 
-[Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
-
 **Why might this group need support during Diyandi?**  
 The Festival atmosphere of Iligan starts at the first day of September (September 1st) till the end of September (September 30). The Calendar of Activities is hard to track especially with where the event is being held. The goal is to know where, when, and if a certain event is starting, happening, and ending just by looking at a Map or directory. 
 
 But this can also be used by Iliganons to avoid traffic at certain parts of Iligan to avoid traffic and not be late at their destination. 
-
-[Briefly explain the group’s situation, goals, or needs.]
 
 ---
 
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+This group of people are new to area and are trying to attend every event in calendar of activities on time, they don't know where each event is being held and they don't want to get lost in the city.
+
+This other group is trying to navigate the city to get home as fast as possible by avoiding areas where an event is being held. 
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
+
 [Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
 
 ---
@@ -39,10 +38,16 @@ But this can also be used by Iliganons to avoid traffic at certain parts of Ilig
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+A mobile application where a directory and a map is visible. 
+
+The directory will show all the available dates for the month or week. Categorized into the types of events, such as sports, concerts, dance, religious, pageants, and etc. Shows the area and date it will start. Is clickable for more details, if it has tickets—the pricing and where to buy, exclusive, will there be a signal, etc. 
+
+Th map shows where the area of the events are happening. Has a pin that shows list of event that is happening and will happen. Also shows the exit, entrance, start point, and end point of the event for the people to know where and where not to go. Can be saved offline due to the loss of signal during big festival events. This can also help people or residence know if there are events happening near by.
+This will also show arrows or points where the people can access or wait for jeepneys that will go in route or pass by the event area. Give information on when will jeepneys start there byahe and when will jeepneys no longer byahe. 
+
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+This will help the intended users such as the visitors and event goers to not get lost and be at the event on time. Many has access to the calendar of activities posted on the facebook page, but there are problems to it. One there are some points where it has a difficult layout and it is hard to spot the event that you want to go to especially when one of the days has many events. Two, you cannot filter it to such categories, you cannot search events that is to your liking. You need to go certain pages just to know if such event is still happening or not. Three, information for the place and place are vague. Again, you have to search the event to know the details of the information. If you are not familiar in the are of Iligan you have to open maps search it in google and ask around for the jeepneys that are in route in the area incase you don't use a taxi or don't have a private car. And when you do get into the event you have to find the entrance if its not that obvious yet.
 
 ---
 
@@ -50,8 +55,8 @@ But this can also be used by Iliganons to avoid traffic at certain parts of Ilig
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. The User/Visitor can search or filter events through category, date, and time. After that list and details are given to the user such as information on what is the event, date, time, venue, maps, tickets, and etc.
+2. The User/Visitor/Resident can open maps and look at where events are being held. When a pin is clicked a list of event—if there is more than one—can be seen, once clicked it will also show more details of information of the event such as what is the event, date, time, tickets, jeepney route, entrance, exit, and etc.
 
 ---
 
