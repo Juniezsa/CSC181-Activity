@@ -30,20 +30,23 @@ This other group is trying to navigate the city to get home as fast as possible 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
+As someone that wants to experience the Diyandi Festival atmosphere and attend events, one of the biggest problem is I don't know where most of the place the event is being held at, even though I am from Iligan. Maybe at the start of September I will know where most stuff are due to the calendar of activities but then as the Diyandi atmosphere start to build I forgot where and when the events I desire to attend is held. And that is not due to my forgetfulness,  one of the factor is social media.
 
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+My social media is sometimes mostly gonna consists of the events that my friends currently did or an event that my friend posts a lot. Resulting to me not being able to get information about the events and if its happening, except when a friend invites me. Once during this festival, we got slight delayed to our practice due to us not knowing there is a concert event currently happening in City Hall. Sometimes, my time to go home is delayed due to some road blockage for an event. Knowing the location, date, and time is not only convenient when you wanna attend an event but also when you wanna go to places and avoid traffic.  
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-A mobile application where a directory and a map is visible. 
+A mobile application where a directory and a map is visible, also notifies when an event is happening within hours. 
 
 The directory will show all the available dates for the month or week. Categorized into the types of events, such as sports, concerts, dance, religious, pageants, and etc. Shows the area and date it will start. Is clickable for more details, if it has tickets—the pricing and where to buy, exclusive, will there be a signal, etc. 
 
 Th map shows where the area of the events are happening. Has a pin that shows list of event that is happening and will happen. Also shows the exit, entrance, start point, and end point of the event for the people to know where and where not to go. Can be saved offline due to the loss of signal during big festival events. This can also help people or residence know if there are events happening near by.
 This will also show arrows or points where the people can access or wait for jeepneys that will go in route or pass by the event area. Give information on when will jeepneys start there byahe and when will jeepneys no longer byahe. 
+
+The application will notify you the event that you currently chose to be notified on. It will notify if the event is gonna happen within the hours with the details of time, venue, and etc. 
 
 
 **How would it help the intended users?**  
@@ -64,23 +67,24 @@ Describe **two specific actions** that users could perform using your proposed s
 
 Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
 
-### Quality 1: [Write a quality]
+### Quality 1: Visual Pin on where the event is held in the Maps, can be screenshotted and saved offline
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+The reason why this quality matters is for the users to visually know where is it being held in certain places. Since, sometimes they will only tell a vague information of the address.They can look at the schedule of events a place is holding to avoid traffic and to see if there is an event happening nearby. It is also helpful when it can be offline, when going to event places some of the events has the phone signal cut off so it is hard to get information and chat online. 
 
-### Quality 2: [Write a quality]
+### Quality 2: Filtration and Search system for the Events
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+The reason this quality matters for the users is so they can immediately find the event they are looking for to attend. Filter it to categories, dates, time, place. Maybe search for an event if it is being held or not. Since most of this information is scattered across the social media and you have to search every event you know to know if an event is gonna be held or not. 
 
 ---
 
 ## 7. How to tell whether the solution helped
 
 How could you determine whether your proposed solution actually helped users?
-
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+- ask users if they have easier way of tracking information of the event.
+- ask users if they can now locate event areas faster.
+- ask users if the have accomplished their task faster and easier than usual.
 
 ---
 
@@ -90,13 +94,16 @@ You may include **one screenshot** or reference image only if it does not contai
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
+
+
 <!-- Example Markdown image syntax:
 ![Brief description of screenshot](path/to/image.png)
 -->
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
-
+references for the problem:
+- https://web.facebook.com/share/p/17bA5bjsTo/ 
+- https://web.facebook.com/share/p/19GZa29NcG/ 
 ---
 
 ## AI use declaration
@@ -125,4 +132,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Write your full name]
+**Name:** Juniezsa Cassandra C. Bacus
