@@ -94,14 +94,15 @@ You may include **one screenshot** or reference image only if it does not contai
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
-
+This image show as a reference on why it is a problem and is needed to be somewhat addressed.
+(activities/Screenshot 2026-10-02 055453.png)
 
 <!-- Example Markdown image syntax:
 ![Brief description of screenshot](path/to/image.png)
 -->
 
 **External sources used, if any:**  
-references for the problem:
+more references for the problem:
 - https://web.facebook.com/share/p/17bA5bjsTo/ 
 - https://web.facebook.com/share/p/19GZa29NcG/ 
 ---
@@ -110,7 +111,7 @@ references for the problem:
 
 Select **one** option below and complete the applicable details.
 
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [x] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
